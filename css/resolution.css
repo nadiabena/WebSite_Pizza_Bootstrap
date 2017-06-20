@@ -1,0 +1,11 @@
+@media screen and (max-width: 1024px) {
+.bloc {
+display:block;
+clear:both;
+position: static;
+padding-top: 1000px;
+}
+#positionNav{
+position: fixed;
+}
+}
